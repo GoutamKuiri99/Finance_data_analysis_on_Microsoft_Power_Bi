@@ -63,6 +63,19 @@ Total QTR Sales is 1.7M and large domination in terms of QTR sales Large cap ind
 
 ![Screenshot 2024-01-30 085632](https://github.com/GoutamKuiri99/Finance_data_analysis_on_Microsoft_Power_Bi/assets/154737280/2d6c89a4-c5dd-4a9b-b9f6-cda65b632f44)
 
+## Conclusion:-
+.Investors often categorize stocks into different market cap segments, such as large cap, medium cap, and small cap, to help assess risk and potential returns. Here are some points to consider for each category:   
+  
+  Large-cap stocks are often considered more stable and less volatile than smaller counterparts. These companies are usually well-established, have a proven track record, and may be leaders in their industries.   
+Dividend Income: Large-cap stocks may be more likely to pay dividends, making them attractive for income-focused investors.       
+It's important to note that individual financial situations and goals vary. Here are some general tips:   
+    Consider diversifying your portfolio across different market cap segments (large, medium, and small caps) to spread risk and capture potential opportunities.     
+    Assess your risk tolerance before making investment decisions. Small-cap stocks, while offering high growth potential, tend to be more volatile. Ensure your portfolio aligns with your risk comfort.   
+
+
+
+
+
 
 
 
