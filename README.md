@@ -53,7 +53,7 @@ I made few KPI'S, Charts based on information that I need.
    (xii) Medium cap industries total QTR Sales is 303.07K.   
    (xiv) Total 9 Micro cap industries.   
 
-### Company Wise Market Capatilization:-  
+### Company Wise Market Capitalization:-  
 Reliance industries is the top company in terms of market captalization is 583K and QTR sales is 100K.
   
 ![Screenshot 2024-01-30 085614](https://github.com/GoutamKuiri99/Finance_data_analysis_on_Microsoft_Power_Bi/assets/154737280/7501a8cb-6a65-4c6d-aca1-2f5dc78ccdb8)
